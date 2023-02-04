@@ -1,0 +1,17 @@
+.box{
+    text-align: center;
+    width: 350px;
+    border: 2px solid black;
+    height: 100px;
+    margin: 50px;
+}
+
+.nsubmit, .nverify, .ncomplete
+{
+    background-color: red;
+}
+
+.sumbit, .verify, .complete
+{
+    background-color: green;
+}
